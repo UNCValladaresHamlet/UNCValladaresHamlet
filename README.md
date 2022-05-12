@@ -28,7 +28,7 @@ Frontend Web Developer
 </p>
 
 
-### Socials
+### Connect with me:
 
 <p align="left"> <a href="https://www.github.com/UNCValladaresHamlet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamletvalladares" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
@@ -38,7 +38,9 @@ Frontend Web Developer
 
   <img align="left" alt="UNCValladaresHamlet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UNCValladaresHamlet&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-  <a href="https://github.com/UNCValladaresHamlet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNCValladaresHamlet&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/UNCValladaresHamlet/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 </details>
 
 
