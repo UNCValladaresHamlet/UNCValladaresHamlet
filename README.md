@@ -1,4 +1,4 @@
-Hi 👋 My name is Hamlet Valladares
+<h1 align="center">Hi 👋 My name is Hamlet Valladares</h1>
 ==================================
 
 Frontend Web Developer
