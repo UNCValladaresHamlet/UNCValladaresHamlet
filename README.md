@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Hamlet Valladares</h1>
-<h3> 💻 I'm an aspiring web developer.</h3>
+<h3> 💻 I'm an aspiring JavaScript Web Developer.</h3>
 
-<h3> 🌍 I'm based in Raleigh, North Carolina.</h3>
+<h3> 🌍 I'm based in Raleigh,North Carolina.</h3>
 
 <h3> 🌱 I'm currently solidifying my fundamentals in Full-stack Web Development.</h3>
 
@@ -34,17 +34,6 @@
 
 <p align="left"> <a href="https://www.github.com/UNCValladaresHamlet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamletvalladares" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="UNCValladaresHamlet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UNCValladaresHamlet&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-<a href="https://github.com/UNCValladaresHamlet/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNCValladaresHamlet&layout=compact" />
-</a>
-</details>
- -->
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNCValladaresHamlet&theme=radical" alt="UNCValladaresHamlet" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UNCValladaresHamlet&count_private=true&theme=radical" alt="UNCValladaresHamlet" />
 
