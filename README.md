@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋 My name is Hamlet Valladares</h1>
-==================================
+<h3> 💻 I'm an aspiring web developer</h3>
 
-Frontend Web Developer
-----------------------
+<h3> 🌍 I'm based in Raleigh, North Carolina.</h3>
 
-* 🌍  I'm based in Raleigh, North Carolina.
-* ✉️  You can contact me at [Hamletvalladares2@gmail.com](mailto:Hamletvalladares2@gmail.com)
-* 🤝  I'm open to collaborating on anything fun!
-* ⚡  Fun Fact: I like to play basketball and disc golf on the weekend.
+<h3> 🌱 I'm currently learning Full-stack Web Development.</h3>
 
+<h3> 🤝 I'm open to collaborating on anything fun!</h3>
+
+<h3> 📫 How to reach me Hamletvalladares2@gmail.com</h3>
+
+<h3> ⚡ Fun Fact: I like to play basketball and disc golf on the weekend.</h3>
 ### Languages and Tools:
 
 <p align="left">
