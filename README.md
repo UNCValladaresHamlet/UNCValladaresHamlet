@@ -3,11 +3,11 @@
 
 <h3> 🌍 I'm based in Raleigh, North Carolina.</h3>
 
-<h3> 🌱 I'm currently learning Full-stack Web Development.</h3>
+<h3> 🌱 I'm currently solidifying my fundamentals in Full-stack Web Development.</h3>
 
-<h3> 🤝 I'm open to collaborating on anything fun!</h3>
+<h3> 🤝 I'm open to collaborating on anything creative and fun!</h3>
 
-<h3> 📫 How to reach me Hamletvalladares2@gmail.com</h3>
+<h3> 📫 You can contact me at Hamletvalladares2@gmail.com</h3>
 
 <h3> ⚡ Fun Fact: I like to play basketball and disc golf on the weekend.</h3>
 
