@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Hamlet Valladares</h1>
 <h3> 💻 I'm an aspiring JavaScript Web Developer.</h3>
 
-<h3> 🌍 I'm based in Raleigh,North Carolina.</h3>
+<h3> 🌍 I'm based in Raleigh, North Carolina.</h3>
 
 <h3> 🌱 I'm currently solidifying my fundamentals in Full-stack Web Development.</h3>
 
