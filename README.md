@@ -10,6 +10,7 @@
 <h3> 📫 How to reach me Hamletvalladares2@gmail.com</h3>
 
 <h3> ⚡ Fun Fact: I like to play basketball and disc golf on the weekend.</h3>
+
 ### Languages and Tools:
 
 <p align="left">
